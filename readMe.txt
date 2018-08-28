@@ -1,1 +1,0 @@
-http://classpixels.in/readtemplate/home.html#
